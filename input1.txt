@@ -1,0 +1,6 @@
+o,0,b,95,40
+o,1,b,95,20
+q,buyers
+o,3,s,95,50
+q,buyers
+q,size,95
